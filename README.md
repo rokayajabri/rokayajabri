@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on React and PHP<br>🌱 I’m currently learning laravel<br>⚡ Fun fact I'm funny 😀
-<img-align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&insightstoken=bcid_RKPvjhIoj88EqxcxoNWLuD9SqbotqVTdP8E&form=ANCMS1&iss=SBIUPLOADGET&selectedindex=0&id=-1322741220&exph=270&expw=500&vt=2&sim=11">
+<img-align="right" alt="Coding" width="400" src="https://i.imgur.com/aI5uuHl.gif">
 
 
 ## 🌐 Socials:
